@@ -1,5 +1,5 @@
 
-gg.alert("☣️☑️MADE BY JAMEs ☑️☣️                                                                                              telegram:-@james6656")
+gg.alert("☣️☑️MADE BY JAMES ☑️☣️                                                                                              telegram:-@james6656")
 
 hostling = 1
 
